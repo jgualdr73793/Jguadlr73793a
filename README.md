@@ -19,7 +19,7 @@
     <br>
 <h3 align="center"> my expectations for the future is to use my career to contribute to society
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Meca.svg/1200px-Meca.svg.png"
+  <img src="https://wallpaperaccess.com/full/2137975.jpg"
    align="center"
        width="200"
        height="200"
