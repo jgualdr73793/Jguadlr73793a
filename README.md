@@ -2,7 +2,7 @@
 <h2 align="center"> 
     Juan Felipe Gualdria
   <br>
-    <img src="https://camo.githubusercontent.com/5cd514268406a53d7b169b87b2ab2c311a92d92e7f4a57db86345219883b8ae7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f706f73746564696e2f696d6167652f75706c6f61642f635f7363616c652c665f6175746f2c715f6175746f2c775f3738302f76313438373831373537342f706f73746564696e2f696d6167656e315f67756974617272612e6a7067" 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOW9HfmUDP0I9Jk7QWN7BlwB6eyxveLmZtvQ&s" 
      align="left"
      alt="Cute quá dợ.";
      width="200"
